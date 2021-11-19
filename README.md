@@ -1,6 +1,6 @@
 # Iterative Training: Finding Binary Weight Deep Neural Networks with Layer Binarization
 
-This repository contains the source code for the paper (link will be posted).
+This repository contains the source code for the paper: [https://arxiv.org/abs/2111.07046](https://arxiv.org/abs/2111.07046).
 
 ## Requirements
 
